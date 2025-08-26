@@ -1,3 +1,6 @@
+Textbook title: Quantitative Social Science Data with R: An Introduction by Brian J. Fogarty
+
+
 # data-analysis-textbook-notes
 
 <ins>Quantitative vs Qualitative Data Analysis</ins>
