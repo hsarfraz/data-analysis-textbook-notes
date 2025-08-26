@@ -11,7 +11,7 @@
 1. Determining what data to use
 2. Figuring out how to get the data
 3. Choosing the type of statistical program to use
-4. Writing in your particular coding syntax
-5. The type of analysis you produce
-6. How you make sense of your analysis. 
+4. Implementing the analysis in code (syntax will vary by researcher)
+5. Select and run the type of analysis (e.g., regression, descriptive stats)
+6. Interpret the results and make sense of them. 
 
